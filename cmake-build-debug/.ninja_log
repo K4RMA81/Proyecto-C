@@ -1,0 +1,25 @@
+# ninja log v5
+9	710	7337219701800976	CMakeFiles/Proyecto_C___2.dir/main.cpp.obj	caee9c3a78f25224
+744	939	7337219703891394	Proyecto_C___2.exe	79e813850d9881ed
+555	1063	7337099766176146	CMakeFiles/Proyecto_C___2.dir/Inventario.cpp.obj	67a6558d1a9ef195
+1	272	7337226028973430	build.ninja	f0581969ee4759cc
+5	744	7337219702190823	CMakeFiles/Proyecto_C___2.dir/Tienda.cpp.obj	7b583e3443ea0f78
+5	528	7337191812203770	CMakeFiles/Proyecto_C___2.dir/Producto.cpp.obj	62b0e51778d39117
+9	598	7337100344771574	CMakeFiles/Proyecto_C___2.dir/ProductoElectronico.cpp.obj	cf2567373350b2c8
+12	619	7337100344971994	CMakeFiles/Proyecto_C___2.dir/ProductoAlimenticio.cpp.obj	fafd8f57c82cb10f
+6	1455	7337226116316481	CMakeFiles/Proyecto_C___2.dir/Tienda.cpp.obj	7b583e3443ea0f78
+1455	1696	7337226118682463	Proyecto_C___2.exe	79e813850d9881ed
+4	1221	7337966258064387	CMakeFiles/Proyecto_C___2.dir/main.cpp.obj	caee9c3a78f25224
+3	659	7337968907746793	CMakeFiles/Proyecto_C___2.dir/main.cpp.obj	caee9c3a78f25224
+10	799	7337968909144151	CMakeFiles/Proyecto_C___2.dir/Tienda.cpp.obj	7b583e3443ea0f78
+799	1183	7337968912711541	Proyecto_C___2.exe	79e813850d9881ed
+15	779	7337977792603178	CMakeFiles/Proyecto_C___2.dir/Producto.cpp.obj	62b0e51778d39117
+3	1013	7337977794863350	CMakeFiles/Proyecto_C___2.dir/main.cpp.obj	caee9c3a78f25224
+19	1113	7337977796159928	CMakeFiles/Proyecto_C___2.dir/Tienda.cpp.obj	7b583e3443ea0f78
+779	1464	7337977799720363	CMakeFiles/Proyecto_C___2.dir/ProductoAlimenticio.cpp.obj	fafd8f57c82cb10f
+1013	1650	7337977801625309	CMakeFiles/Proyecto_C___2.dir/ProductoElectronico.cpp.obj	cf2567373350b2c8
+1650	1868	7337977803596205	Proyecto_C___2.exe	79e813850d9881ed
+4	1045	7337978002584745	CMakeFiles/Proyecto_C___2.dir/main.cpp.obj	caee9c3a78f25224
+1045	1431	7337978006182988	Proyecto_C___2.exe	79e813850d9881ed
+5	692	7337992357141336	CMakeFiles/Proyecto_C___2.dir/main.cpp.obj	caee9c3a78f25224
+692	883	7337992358857612	Proyecto_C___2.exe	79e813850d9881ed

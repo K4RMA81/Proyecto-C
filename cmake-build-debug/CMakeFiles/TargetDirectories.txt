@@ -1,0 +1,3 @@
+C:/Users/Family-PC/CLionProjects/Proyecto_C++_2/cmake-build-debug/CMakeFiles/Proyecto_C___2.dir
+C:/Users/Family-PC/CLionProjects/Proyecto_C++_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Family-PC/CLionProjects/Proyecto_C++_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
