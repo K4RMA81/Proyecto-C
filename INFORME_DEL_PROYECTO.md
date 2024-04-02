@@ -15,7 +15,7 @@ Aplicación de Programación Funcional:---
 La programación funcional se utiliza en cierta medida en este proyecto. Por ejemplo, se utiliza la función std::copy_if en la clase Tienda para filtrar productos por precio. Esto permite separar la lógica de filtrado de la manipulación directa del 
 contenedor de productos, lo que mejora la legibilidad y mantenibilidad del código.
 
-Diagrama de Clases
+Diagrama de Clases:---
 El diagrama de clases del proyecto consta de tres clases principales: Tienda, Producto y sus clases derivadas ProductoAlimenticio y ProductoElectronico. Aquí está una representación simplificada del diagrama de clases:
 
         +------------------------------------------+
