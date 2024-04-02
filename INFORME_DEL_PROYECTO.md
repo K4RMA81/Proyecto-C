@@ -8,7 +8,7 @@ y ProductoElectronico heredan de Producto y representan productos específicos. 
 Aplicación de STL (Standard Template Library):---
 La STL de C++ se utiliza en este proyecto para proporcionar estructuras de datos y algoritmos útiles para manipular y operar sobre los objetos del proyecto. Por ejemplo, se utilizan contenedores como std::vector para almacenar los productos 
 en el inventario de la tienda, y algoritmos como std::find_if y std::copy_if para buscar y filtrar productos en el inventario, respectivamente.
-Aplicación de Sobrecarga de Operadores:
+Aplicación de Sobrecarga de Operadores:---
 Se aplica la sobrecarga de operadores en este proyecto para proporcionar una interfaz más intuitiva y conveniente para manipular objetos. Por ejemplo, se sobrecarga el operador de asignación (=) en la clase Producto, lo que permite asignar un 
 objeto Producto a otro de manera más directa y legible. Esto simplifica el código y mejora la legibilidad.
 Aplicación de Programación Funcional:---
